@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-10-08 13:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
+"Last-Translator: İlke Yılmaz <ilkey3850@gmail.com>\n"
 "Language: tr\n"
 "Language-Team: tr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -24,7 +24,7 @@ msgid " Sign in with %(provider)s "
 msgstr "%(provider)s ile oturum açın"
 
 msgid "%1$s left"
-msgstr "%1$s kaldi"
+msgstr "%1$s kaldı"
 
 msgid "%1$s paused."
 msgstr "%1$s duraklatıldı."
@@ -49,13 +49,13 @@ msgid "Activities"
 msgstr "Aktiviteler"
 
 msgid "Activities list is updated"
-msgstr "Aktivite listesi güncellenir"
+msgstr "Aktiviteler listesi güncellendi"
 
 msgid "Activity by days"
 msgstr "Günlere göre etkinlik"
 
 msgid "Activity by months"
-msgstr "Aylara göre faaliyet"
+msgstr "Aylara göre etkinlik"
 
 msgid "Activity by weeks"
 msgstr "Haftaya göre etkinlik"
@@ -70,13 +70,13 @@ msgid "Add category"
 msgstr "Kategori ekle"
 
 msgid "Add more"
-msgstr "Tekrar ekle"
+msgstr "Daha fazla ekle"
 
 msgid "Add new tasks to the top"
 msgstr "En üste yeni görevler ekle"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr "Hedeflerinizle bağlantılı olan kaygılarınızı hafifletin"
+msgstr "Başlamak ile bağlantılı endişenizi azaltın"
 
 msgid "Application"
 msgstr "Uygulama"
@@ -101,7 +101,7 @@ msgid "Auto start pomodoros"
 msgstr "Pomodoroları otomatik başlat"
 
 msgid "Block screen on breaks"
-msgstr "Aralarda blok ekranı"
+msgstr "Aralarda ekranı blokla"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Hedeflerinize ulaşmak için kararlılığınızı arttırın"
@@ -116,25 +116,25 @@ msgid "Categories"
 msgstr "Kategoriler"
 
 msgid "Changes saved"
-msgstr "Kaydedilen değişiklikler"
+msgstr "Değişiklikler kaydedildi"
 
 msgid "Clear All Data"
 msgstr "Tüm Verileri Temizle"
 
 msgid "Clear DONE history once per day"
-msgstr "DONE geçmişi günde bir kez temizle"
+msgstr "TAMAMLANAN geçmişini günde bir kere temizle"
 
 msgid "Clear the list"
 msgstr "Listeyi temizle"
 
 msgid "Click on a number to add more."
-msgstr "Daha fazla eklemek için bir numarayı tıklayın."
+msgstr "Daha fazla eklemek için bir numaraya tıklayın."
 
 msgid "Click to open menu"
-msgstr "Menüyü aç"
+msgstr "Menüyü açmak için tıklayın"
 
 msgid "Click/tap to edit items."
-msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
+msgstr "Ögeleri düzenlemek için tıklayın/dokunun."
 
 msgid "Close"
 msgstr "Kapat"
@@ -143,19 +143,19 @@ msgid "Code"
 msgstr "Kod"
 
 msgid "Color Theme"
-msgstr "Tema"
+msgstr "Renk Teması"
 
 msgid "Configure"
 msgstr "Yapılandır"
 
 msgid "Confirm"
-msgstr "Onaylamak"
+msgstr "Onayla"
 
 msgid "Congratulations!"
 msgstr "Tebrikler!"
 
 msgid "Connect"
-msgstr "Bağlayın"
+msgstr "Bağlan"
 
 msgid "Copy to %1$s"
 msgstr "%1$s'e kopyala"
@@ -164,13 +164,13 @@ msgid "Create"
 msgstr "Oluştur"
 
 msgid "Create a category"
-msgstr "Kategori yarat"
+msgstr "Kategori oluştur"
 
 msgid "Daily Goal"
-msgstr "Günlük Gol"
+msgstr "Günlük Hedef"
 
 msgid "Daily Goal Completed."
-msgstr "Günlük gol tamamlandı."
+msgstr "Günlük Hedef Tamamlandı."
 
 msgid "Danger Zone"
 msgstr "Tehlikeli bölge"
@@ -182,33 +182,32 @@ msgid "Disconnect"
 msgstr "Bağlantısını kesin"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
+msgstr "Yapılacaklar boşsa, bir sonraki pomodoroya başlamayın"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
-"Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için "
-"Sürükle/Taşı."
+"Ögeleri sıralamak için Tutun ve sürükleyin/dokunun."
 
 msgid "Due"
 msgstr ""
 
 msgid "Edit"
-msgstr "Düzenlemek"
+msgstr "Düzenle"
 
 msgid "Enable Browser Alerts"
 msgstr "Tarayıcı Uyarılarını Etkinleştir"
 
 msgid "Enable Desktop Notifications"
-msgstr "Desktop Bildirimlerini Etkinleştir"
+msgstr "Masaüstü Bildirimlerini Etkinleştir"
 
 msgid "Enable Notifications"
-msgstr "Bildirimlerini Etkinleştir"
+msgstr "Bildirimleri Etkinleştir"
 
 msgid "Ends on"
 msgstr "Bitiş tarihi"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
+msgstr "Müdahaleleri engelleyerek odak ve konsantrasyonunuzu geliştirin"
 
 msgid "Enjoy your break"
 msgstr "Aranın tadını çıkar"
@@ -223,7 +222,7 @@ msgid "Feedback"
 msgstr "Geri Bildirim"
 
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 msgid "Fill blank entries"
 msgstr "Boş girişleri doldur"
@@ -235,19 +234,19 @@ msgid "Great work!"
 msgstr "Harika iş!"
 
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgid "Hide notificaions"
 msgstr "Bildirimleri gizle"
 
 msgid "History"
-msgstr ""
+msgstr "Geçmiş"
 
 msgid "How to fix?"
 msgstr "Nasıl düzeltilir?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa abartıya kaçmayın"
+msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa parçalara ayırın"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
@@ -257,13 +256,13 @@ msgstr ""
 "bir görev ile birleştirin"
 
 msgid "Import tasks from CSV"
-msgstr "CSV'den görevleri içe aktarma"
+msgstr "CSV'den görevleri içe aktar"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr "İthalat başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
+msgstr "İçe aktarma başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
 
 msgid "Imported from External Sources"
-msgstr "Dış kaynaklardan ithal edilen"
+msgstr "Dış Kaynaklardan içe aktarıldı"
 
 msgid "Improve your work or study process"
 msgstr "Çalışma veya öğrenme sürecinizi geliştirin"
@@ -281,10 +280,10 @@ msgid "Integrations"
 msgstr "Entegrasyonlar"
 
 msgid "Interruption tracked"
-msgstr "Kesinti izlenir"
+msgstr "Algılanan kesinti"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "Küresel sıralamaya girin"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -297,13 +296,13 @@ msgid "Language"
 msgstr "Dil"
 
 msgid "Last 365 days"
-msgstr "Son 365 günde"
+msgstr "Son 365 gün"
 
 msgid "Last Month"
 msgstr "Geçen ay"
 
 msgid "Last Quarter"
-msgstr "Son çeyrek"
+msgstr "Son Çeyrek"
 
 msgid "Last Week"
 msgstr "Geçen hafta"
@@ -321,7 +320,7 @@ msgid "Loading"
 msgstr "Yükleniyor"
 
 msgid "Lock is enabled"
-msgstr "Kilit etkin"
+msgstr "Kilit etkinleştirildi"
 
 msgid "Login to the service and track your progress"
 msgstr "Sürecinizi takip etmek için giriş yapın"
@@ -342,7 +341,7 @@ msgid "Long break duration"
 msgstr "Uzun mola süresi"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr "%1$s saniye boyunca 6 metre uzaklıktaki bir şeye bakın"
 
 msgid "Mark as done"
 msgstr "Tamamlandı olarak işaretle"
@@ -384,16 +383,16 @@ msgid "One minute left"
 msgstr "bir dakika kaldı"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr ""
+msgstr "Bilgisayar uykuya geçtiğinde/boştayken durdur/devam ettir"
 
 msgid "Play alarm sound"
 msgstr "Alarm sesi çal"
 
 msgid "Play ticking sound"
-msgstr "Tıkırtı sesi çal"
+msgstr "Tıklama sesi çal"
 
 msgid "Play ticking sound while breaks"
-msgstr "Mola esnasında tiz ses çalın"
+msgstr "Mola esnasında tıklama sesi çalın"
 
 msgid "Please allow notifications in your browser"
 msgstr "Lütfen tarayıcınızda bildirimlere izin verin"
@@ -402,7 +401,7 @@ msgid "Please don't send me these awesome daily reports"
 msgstr ""
 
 msgid "Please reload the application."
-msgstr "Uygulamayı tekrar yükle"
+msgstr "Lütfen uygulamayı yeniden yükleyin"
 
 msgid "Please select a value"
 msgstr "Lütfen bir değer seçin"
@@ -414,7 +413,7 @@ msgid "Please, login to use the feature"
 msgstr "Özelliği kullanmak için lütfen giriş yapın"
 
 msgid "Please, login to view your stats"
-msgstr "Çalışma kaydınızı tutmak için giriş yapın"
+msgstr "İstatiklerinizi görmek için lütfen giriş yapın"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
 msgstr ""
@@ -437,10 +436,10 @@ msgid "Profile"
 msgstr "Profil"
 
 msgid "Provide Feedback"
-msgstr "Geribildirim sağlamak"
+msgstr "Geribildirim sağlayın"
 
 msgid "Quit"
-msgstr "Çikmak"
+msgstr "Çık"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
@@ -461,7 +460,7 @@ msgid "Register"
 msgstr "Kayıt ol"
 
 msgid "Relax"
-msgstr ""
+msgstr "Rahatla"
 
 msgid "Release Notes"
 msgstr "Sürüm notları"
@@ -470,7 +469,7 @@ msgid "Remove Account"
 msgstr "Hesabı kaldır"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr "Pomodoro tamamlandığında bir görevi TODO'dan kaldırma"
+msgstr "Pomodoro tamamlandığında bir görevi Yapılacaklar'dan kaldır"
 
 msgid "Remove one"
 msgstr "Birini kaldır"
@@ -479,7 +478,7 @@ msgid "Repeat"
 msgstr "Tekrar et"
 
 msgid "Repeat every"
-msgstr "Her tekrarla"
+msgstr "Hepsini Tekrarla"
 
 msgid "Reports Time"
 msgstr ""
@@ -491,7 +490,7 @@ msgid "Scheduler"
 msgstr "Zamanlayıcı"
 
 msgid "Schemes"
-msgstr "Şemalari"
+msgstr "Şemalar"
 
 msgid "Select Category"
 msgstr "Kategori seçiniz"
@@ -500,10 +499,10 @@ msgid "Select Dates"
 msgstr "Tarihler'i seçin"
 
 msgid "Select a source to import tasks"
-msgstr "Görevleri içe aktarmak için bir proje seçin"
+msgstr "Görevleri içe aktarmak için bir kaynak seçin"
 
 msgid "Send daily reports"
-msgstr "Günlük raporlar gönderme"
+msgstr "Günlük raporlar gönder"
 
 msgid "Send test notification"
 msgstr "Test bildirimi gönder"
@@ -515,22 +514,22 @@ msgid "Server has been updated."
 msgstr "Sunucu güncellendi."
 
 msgid "Set Due"
-msgstr "Son ödeme tarihi"
+msgstr "Bitiş tarihi ayarla"
 
 msgid "Set Recurrence"
-msgstr "Tekrarlamak"
+msgstr "Tekrarlanma ayarla"
 
 msgid "Set do not disturb"
-msgstr "Set rahatsız etmeyin"
+msgstr "Rahatsız etmeyin'e ayarla"
 
 msgid "Set to Later"
-msgstr "Daha sonra ayarla"
+msgstr "Daha sonraya ayarla"
 
 msgid "Set to Tomorrow"
 msgstr "Yarına ayarla"
 
 msgid "Set to Week"
-msgstr "Daha sonra ayarla"
+msgstr "Haftaya ayarla"
 
 msgid "Settings"
 msgstr "Ayarlar"
@@ -583,7 +582,7 @@ msgid ""
 msgstr "Karmaşık durumlar karşısında çözüm üretme kabiliyetinizi güçlendirin"
 
 msgid "Support the Project"
-msgstr "Projeye destek"
+msgstr "Projeyi destekleyin"
 
 msgid "Sync my tasks only"
 msgstr "Yalnızca görevlerimi senkronize et"
@@ -595,16 +594,16 @@ msgid "TODO list is empty."
 msgstr "Yapılacaklar listesi boş"
 
 msgid "TODO list is updated"
-msgstr "TODO listesi güncellendi"
+msgstr "Yapılacaklar listesi güncellendi"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Kısa bir mola verin (3-5 dakika)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Hayatınıza daha çok zaman ayırın"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
+msgstr "Geri bildirim için teşekkürler! Mesajınız yönetim için bekliyor."
 
 msgid "The Basics"
 msgstr "Temeller"
@@ -620,7 +619,7 @@ msgid ""
 msgstr ""
 "Pomodoro tekniği herhangi bir görev için kullanabileceğiniz bir zaman "
 "yönetim tekniğidir. Birçok kişi için zaman bir düşmandır. “Saat tik "
-"seslerinin” özellikle yaklaşan zaman sınırlarında oluşturduğu kaygı "
+"seslerinin” özellikle yaklaşan son tarihlerde oluşturduğu kaygı "
 "başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve bu da "
 "işin ertelenmesine sebebiyet verir."
 
@@ -644,6 +643,8 @@ msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
 msgstr ""
+"Pomodoro Tracker - Pomodoro tekniği üzerine oluşturulmuş bir zaman  "
+"yönetimi aracıdır. "
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
@@ -707,7 +708,7 @@ msgid "Toggle mini timer"
 msgstr "Mini ekrana geç"
 
 msgid "Try to add some tasks use the form above"
-msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
+msgstr "Yukarıdaki formu kullanarak için birkaç görev ekleyin"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Birkaç pomodoro bitirmeyi deneyin veya farklı bir zaman aralığı seçin"
@@ -719,7 +720,7 @@ msgid "Unselect Category"
 msgstr "Kategoriyi kaldır"
 
 msgid "Update status"
-msgstr "Güncelleme durumu"
+msgstr "Durumu güncelle"
 
 msgid "View"
 msgstr "Görüntüle"
@@ -737,7 +738,7 @@ msgid "Work days"
 msgstr "Çalışılan gün"
 
 msgid "Work history won`t be saved."
-msgstr "Çalışma geçmişi kurtarılamaz."
+msgstr "Çalışma geçmişi kaydedilmeyecek."
 
 msgid "Work until the Pomodoro rings"
 msgstr "Pomodoro bitene kadar çalış"
@@ -749,7 +750,7 @@ msgid "Yesterday"
 msgstr "Dün"
 
 msgid "You are not signed."
-msgstr "Sen imzalanmadın"
+msgstr "Kayıtlı değilsin"
 
 msgid ""
 "You are trying to connect a %1$s account, but it is already connected to "
@@ -769,7 +770,7 @@ msgid "You have finished all your tasks."
 msgstr "Tüm görevlerinizi bitirdiniz."
 
 msgid "You have to reconnect the integration"
-msgstr "Entegrasyonu bağlamanız gerekiyor"
+msgstr "Entegrasyonu yeniden bağlamanız gerekiyor"
 
 msgid "You need to connect the integration"
 msgstr "Entegrasyonu bağlamanız gerekiyor"
@@ -799,13 +800,13 @@ msgid "close"
 msgstr "kapat"
 
 msgid "copy"
-msgstr "kopya"
+msgstr "kopyala"
 
 msgid "created"
 msgstr "oluşturulan"
 
 msgid "custom"
-msgstr "seçmek"
+msgstr "özel"
 
 msgid "dark"
 msgstr "karanlık"
@@ -813,7 +814,7 @@ msgstr "karanlık"
 msgid "day"
 msgid_plural "days"
 msgstr[0] "gün"
-msgstr[1] "gün"
+msgstr[1] "günler"
 
 msgid "default"
 msgstr "varsayılan"
@@ -822,7 +823,7 @@ msgid "delay"
 msgstr "gecikme"
 
 msgid "delays"
-msgstr "gecikme"
+msgstr "gecikmeler"
 
 msgid "delete"
 msgstr "sil"
@@ -831,10 +832,10 @@ msgid "description"
 msgstr "açıklama"
 
 msgid "disable"
-msgstr "devre dışı"
+msgstr "devre dışı bırak"
 
 msgid "done"
-msgstr "yapilanlar"
+msgstr "Tamam"
 
 msgid "duration"
 msgstr "Süre"
@@ -849,16 +850,16 @@ msgid "for all time"
 msgstr "tüm zamanlar için"
 
 msgid "forward"
-msgstr ""
+msgstr "İleri"
 
 msgid "friday"
 msgstr "cuma"
 
 msgid "friends"
-msgstr "arkadaş"
+msgstr "arkadaşlar"
 
 msgid "global"
-msgstr ""
+msgstr "Küresel"
 
 msgid "hour"
 msgid_plural "hours"
@@ -881,10 +882,10 @@ msgid "in 5 seconds"
 msgstr "5 saniye içerisinde"
 
 msgid "in minutes"
-msgstr "dakika"
+msgstr "dakikalarda"
 
 msgid "in pomodoros"
-msgstr "pomodoro"
+msgstr "pomodorolarda"
 
 msgid "interruptions"
 msgstr "kesintiler"
@@ -893,33 +894,33 @@ msgid "later"
 msgstr "sonra"
 
 msgid "light"
-msgstr "işık"
+msgstr "Açık"
 
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "beğen"
-msgstr[1] ""
+msgstr[1] "Beğeniler"
 
 msgid "login"
 msgstr "oturum aç"
 
 msgid "maximize"
-msgstr ""
+msgstr "büyült"
 
 msgid "median"
 msgstr "medyan"
 
 msgid "menu"
-msgstr ""
+msgstr "Menü"
 
 msgid "merge"
-msgstr "birleşmek"
+msgstr "birleştir"
 
 msgid "messages"
-msgstr "mesajları"
+msgstr "mesajlar"
 
 msgid "minimize"
-msgstr ""
+msgstr "küçült"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -935,7 +936,7 @@ msgstr[0] "ay"
 msgstr[1] "ay"
 
 msgid "never"
-msgstr ""
+msgstr "asla"
 
 msgid "next page"
 msgstr "sonraki sayfa"
@@ -947,10 +948,10 @@ msgid "no information available"
 msgstr "bilgi bulunmamaktadır"
 
 msgid "number"
-msgstr "saymak"
+msgstr "sayı"
 
 msgid "on"
-msgstr ""
+msgstr "açık"
 
 msgid "one message per line"
 msgstr "her satıra bir mesaj"
@@ -985,7 +986,7 @@ msgid "rating"
 msgstr "değerlendirme"
 
 msgid "refresh"
-msgstr "yenileme"
+msgstr "yenile"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "kayıtlı kullanıcı pomodorolarını tamamlamaya vakit harcıyor"
@@ -1014,7 +1015,7 @@ msgid "skip"
 msgstr "geç"
 
 msgid "split"
-msgstr "bölmek"
+msgstr "böl"
 
 msgid "start"
 msgstr "başlat"
@@ -1032,7 +1033,7 @@ msgid "take a long break"
 msgstr "uzun bir mola al"
 
 msgid "take a short break"
-msgstr "kisa bir mola al"
+msgstr "kısa bir mola al"
 
 msgid "thursday"
 msgstr "perşembe"
@@ -1073,14 +1074,14 @@ msgstr ""
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] "yil"
-msgstr[1] "yil"
+msgstr[0] "yıl"
+msgstr[1] "yıl"
 
 #~ msgid "Add Activity"
-#~ msgstr "Aktiviteyi ekle"
+#~ msgstr "Aktivite ekle"
 
 #~ msgid "Apply"
-#~ msgstr "Uygulamak"
+#~ msgstr "Uygula"
 
 #~ msgid "April"
 #~ msgstr "Nisan"
@@ -1095,16 +1096,16 @@ msgstr[1] "yil"
 #~ msgstr "Ağustos"
 
 #~ msgid "Daily Task"
-#~ msgstr "Günlük iş olarak işaretle"
+#~ msgstr "Günlük Görev"
 
 #~ msgid "Daily history"
-#~ msgstr "Günlük geçmişi"
+#~ msgstr "Günlük geçmiş"
 
 #~ msgid "Date"
 #~ msgstr "Tarih"
 
 #~ msgid "December"
-#~ msgstr "Aralik"
+#~ msgstr "Aralık"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Telgraf Bildirimlerini Etkinleştir"
@@ -1119,7 +1120,7 @@ msgstr[1] "yil"
 #~ msgstr "CSV'den kayıtları içe aktarın"
 
 #~ msgid "Import/Export tasks"
-#~ msgstr ""
+#~ msgstr "Görevleri İçe/Dışa aktar"
 
 #~ msgid "January"
 #~ msgstr "Ocak"
@@ -1131,13 +1132,13 @@ msgstr[1] "yil"
 #~ msgstr "Haziran"
 
 #~ msgid "Load daily tasks from Google Calendar"
-#~ msgstr ""
+#~ msgstr "Google Takvim'den günlük görevleri indir"
 
 #~ msgid "Login to view your stats"
-#~ msgstr "Çalışma kaydınızı tutmak için giriş yapın"
+#~ msgstr "İstatiklerinizi görüntülemek için giriş yapın"
 
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
-#~ msgstr ""
+#~ msgstr "20 saniye boyunca 6 metre uzaktaki bir şeye bakın"
 
 #~ msgid "March"
 #~ msgstr "Mart"
@@ -1152,7 +1153,7 @@ msgstr[1] "yil"
 #~ msgstr "Ekim"
 
 #~ msgid "Pin to activities"
-#~ msgstr "Favorilere ekle"
+#~ msgstr "Aktivitelere ekle"
 
 #~ msgid "Please log in using a different method and connect the %1$s after"
 #~ msgstr ""
@@ -1167,7 +1168,7 @@ msgstr[1] "yil"
 #~ msgstr "Tekrarlanan görev"
 
 #~ msgid "Reports and notifications"
-#~ msgstr ""
+#~ msgstr "Raporlar ve bildirimler"
 
 #~ msgid "Select a calendar to import tasks"
 #~ msgstr "Görevleri içe aktarmak için bir takvim seçin"
@@ -1176,7 +1177,7 @@ msgstr[1] "yil"
 #~ msgstr "Günlük Raporları Gönder"
 
 #~ msgid "Send reports on email: "
-#~ msgstr "E-postayla ilgili rapor gönder:"
+#~ msgstr "Raporları e-posta yoluyla gönder:"
 
 #~ msgid "Send reports on telegram"
 #~ msgstr "Telgrafta rapor gönderme"
@@ -1185,28 +1186,28 @@ msgstr[1] "yil"
 #~ msgstr "Eylül"
 
 #~ msgid "Sync with Google Tasks"
-#~ msgstr ""
+#~ msgstr "Google Görevler ile senkronize et"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
 
 #~ msgid "The integration is outdated. Please reconnect."
-#~ msgstr "Bütünleşme modası geçmiş. Lütfen tekrar bağlanın."
+#~ msgstr "Entegrasyon zaman aşımına uğradı. Lütfen tekrar bağlanın."
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
 #~ msgid "Try to mark TODO as activity or use the form above"
-#~ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
+#~ msgstr "Yapılacakları aktivite olarak işaretlemeyi deneyin veya yukarıdaki formu kullanın"
 
 #~ msgid "duplicate"
-#~ msgstr "Çift"
+#~ msgstr "Kopyala"
 
 #~ msgid "quarter"
 #~ msgstr "çeyrek"
 
 #~ msgid "record"
-#~ msgstr "rekor"
+#~ msgstr "Kayıt"
 
 #~ msgid "remove categories"
 #~ msgstr "kategorileri kaldır"
